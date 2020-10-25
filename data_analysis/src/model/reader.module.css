@@ -1,0 +1,15 @@
+.fullCanvas {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.halfCanvas {
+    width: 50%;
+}
+
+.readingArea {
+    width: 100%;
+    color: black;
+    background-color: white;
+}
